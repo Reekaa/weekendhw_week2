@@ -1,7 +1,6 @@
 {
   "name": "top_trumps",
   "version": "1.0.0",
-  "description": "",
   "main": ".gitignore.js",
   "scripts": {
     "test": "jest"
@@ -10,5 +9,7 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.7.1"
-  }
+  },
+  "dependencies": {},
+  "description": ""
 }
