@@ -6,13 +6,6 @@ class Card {
     this.strength = strength;
     this.agility = agility;
   };
-
-
 }
-
-
-
-
-
 
 module.exports = Card;
